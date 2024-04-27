@@ -4,7 +4,7 @@ This software is written in python and displays "Hello World" to the console.
 My goal in creating the current software is to ensure github connections are set up properly for later projects.
 I will be using this folder and files as a template to set up my other projects over the next few months.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ui9jvPfYfvw)
 
 # Development Environment
 
